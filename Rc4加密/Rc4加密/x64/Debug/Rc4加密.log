@@ -1,0 +1,4 @@
+﻿  ecc.cpp
+E:\c++学习vs\Rc4加密\Rc4加密\ecc.cpp(69,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\c++学习vs\Rc4加密\Rc4加密\ecc.cpp(141,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Rc4加密.vcxproj -> E:\c++学习vs\Rc4加密\x64\Debug\Rc4加密.exe
